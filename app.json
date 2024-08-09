@@ -1,0 +1,8 @@
+{
+  "name": "QuickN",
+  "displayName": "QuickN",
+  "hermes": {
+    "enabled": true,
+    "commandUnlink": "node node_modules/hermes-engine/unlink"
+  }
+}
